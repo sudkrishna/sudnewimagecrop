@@ -1,0 +1,20 @@
+{
+  "name": "sudkrishna/sudnewimagecrop",
+  "description": "new Crop image upload widget by Sud",
+  "homepage": "https://github.com/sudkrishna/myimagecrop",
+  "license": "BSD-3-Clause",
+  "type": "yii2-extension",
+  "version": "0.0.1",
+
+  "authors": [
+	{
+	  "name": "Sudarshan Sutar",
+	  "email": "ssudarshan8r@gmail.com"
+	}
+  ],
+  "autoload": {
+	"psr-4": {
+	  "sudnewimagecrop\\": ""
+	}
+  }
+}
